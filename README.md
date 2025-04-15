@@ -31,15 +31,15 @@ Make sure you have the following installed:
 
 ### ▶️ Run the App
 
-1. Clone the repository:
-   git clone https://github.com/your-username/diabetes-prediction-aiml-v-sem-project.git
-   cd diabetes-prediction-aiml-v-sem-project
+#### Clone the repository:
+      git clone https://github.com/ahhmeddd-11/Diabetes-Prediction.git
+      cd diabetes-prediction-aiml-v-sem-project
 
-2. Install dependencies:
-3.       pip install -r requirements.txt
+#### Install dependencies:
+      pip install -r requirements.txt
    
-4. Run the app:
-5.       streamlit run diabetes_app.py
+#### Run the app:
+      streamlit run diabetes_app.py
    
    
 ### The project uses the Pima Indians Diabetes Dataset, which includes features such as:
