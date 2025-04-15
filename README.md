@@ -59,3 +59,6 @@ Syed Ahmed Ali – syedahmed4957@gmail.com
 
 ## 📝 License
 This project is open-source and available under the MIT License.
+
+## Live preview
+Follow the link to get the live preview: https://diabetes-prediction-main.streamlit.app/
