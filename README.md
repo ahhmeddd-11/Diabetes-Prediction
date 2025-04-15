@@ -15,7 +15,6 @@ This project predicts whether a person is likely to have diabetes using a machin
       ├── diabetes_app.py       # Main application script
       ├── diabetes_model.pkl    # Trained ML model 
       ├── diabetes.csv          # Dataset (Pima Indians Diabetes dataset) 
-      ├── AIML_OPEN_ENDED.pdf   # Project documentation
 
 
 ## 🚀 How to Run the Project
@@ -27,7 +26,7 @@ Make sure you have the following installed:
 - Python 3.7+
 - pandas
 - scikit-learn
-- streamlit (if using Streamlit for the app)
+- streamlit
 - joblib or pickle
 
 ### ▶️ Run the App
@@ -37,10 +36,10 @@ Make sure you have the following installed:
    cd diabetes-prediction-aiml-v-sem-project
 
 2. Install dependencies:
-        pip install -r requirements.txt
+3.       pip install -r requirements.txt
    
 4. Run the app:
-        streamlit run diabetes_app.py
+5.       streamlit run diabetes_app.py
    
    
 ### The project uses the Pima Indians Diabetes Dataset, which includes features such as:
@@ -51,6 +50,7 @@ Make sure you have the following installed:
         BMI
         DiabetesPedigreeFunction
         Age
+        
 ## 🤖 Model
 The model is trained using scikit-learn and saved as a .pkl file (diabetes_model.pkl). It uses logistic regression or a similar classification algorithm to predict diabetes.
 
