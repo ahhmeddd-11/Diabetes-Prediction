@@ -10,6 +10,9 @@ This project predicts whether a person is likely to have diabetes using a machin
 - Clean and user-friendly UI.
 - Based on real-world health data.
 
+## Live preview
+Follow the link to get the live preview: https://diabetes-prediction-main.streamlit.app/
+
 ## 📂 Project Structure
 
       ├── diabetes_app.py       # Main application script
@@ -59,6 +62,3 @@ Syed Ahmed Ali – syedahmed4957@gmail.com
 
 ## 📝 License
 This project is open-source and available under the MIT License.
-
-## Live preview
-Follow the link to get the live preview: https://diabetes-prediction-main.streamlit.app/
