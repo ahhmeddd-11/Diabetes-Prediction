@@ -12,10 +12,10 @@ This project predicts whether a person is likely to have diabetes using a machin
 
 ## 📂 Project Structure
 
-├── diabetes_app.py       # Main application script
-├── diabetes_model.pkl    # Trained ML model 
-├── diabetes.csv          # Dataset (Pima Indians Diabetes dataset) 
-├── AIML_OPEN_ENDED.pdf   # Project documentation
+      ├── diabetes_app.py       # Main application script
+      ├── diabetes_model.pkl    # Trained ML model 
+      ├── diabetes.csv          # Dataset (Pima Indians Diabetes dataset) 
+      ├── AIML_OPEN_ENDED.pdf   # Project documentation
 
 
 ## 🚀 How to Run the Project
