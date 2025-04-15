@@ -25,10 +25,10 @@ This project predicts whether a person is likely to have diabetes using a machin
 Make sure you have the following installed:
 
 - Python 3.7+
-- `pandas`
-- `scikit-learn`
-- `streamlit` (if using Streamlit for the app)
-- `joblib` or `pickle`
+- pandas
+- scikit-learn
+- streamlit (if using Streamlit for the app)
+- joblib or pickle
 
 ### ▶️ Run the App
 
