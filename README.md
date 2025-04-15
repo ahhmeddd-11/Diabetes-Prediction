@@ -51,14 +51,14 @@ Make sure you have the following installed:
         BMI
         DiabetesPedigreeFunction
         Age
-### 🤖 Model
+## 🤖 Model
 The model is trained using scikit-learn and saved as a .pkl file (diabetes_model.pkl). It uses logistic regression or a similar classification algorithm to predict diabetes.
 
-### 📘 Documentation
+## 📘 Documentation
 Detailed project explanation is available in AIML_OPEN_ENDED.pdf.
 
-📌 Author
-Your Name – syedahmed4957@gmail.com
+## 📌 Author
+Syed Ahmed Ali – syedahmed4957@gmail.com
 
-📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
