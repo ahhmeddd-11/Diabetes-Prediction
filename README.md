@@ -42,7 +42,7 @@ Make sure you have the following installed:
       streamlit run diabetes_app.py
    
    
-### The project uses the Pima Indians Diabetes Dataset, which includes features such as:
+#### The project uses the Pima Indians Diabetes Dataset, which includes features such as:
         Glucose
         BloodPressure
         SkinThickness
@@ -53,9 +53,6 @@ Make sure you have the following installed:
         
 ## 🤖 Model
 The model is trained using scikit-learn and saved as a .pkl file (diabetes_model.pkl). It uses logistic regression or a similar classification algorithm to predict diabetes.
-
-## 📘 Documentation
-Detailed project explanation is available in AIML_OPEN_ENDED.pdf.
 
 ## 📌 Author
 Syed Ahmed Ali – syedahmed4957@gmail.com
